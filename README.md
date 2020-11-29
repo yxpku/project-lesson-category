@@ -1,6 +1,6 @@
 # Project Lessons Finder Category
 
-The project used machine learning methods to classify the input project evaluation documents into 8 pre-defined lessons categories (46 sub-categories), based on World Bank IEG project lessons text data
+The project used machine learning methods to classify the input project evaluation documents into 8 pre-defined lessons categories (46 sub-categories), based on the World Bank IEG project lessons text data.
 
 ## Models Used
 Naive Bayes, Random Forest and ANN
